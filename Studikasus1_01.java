@@ -6,13 +6,9 @@ public class Studikasus1_01 {
         
         int hargaPerCup = 18000;
         int jumlahCup, uangBayar;
+        int totalHarga, diskon, totalBayar;
         int kembalian, kurang;
 
-        System.out.println("Masukkan jumlah cup : ");
-        jumlahCup = input.nextInt;
-        System.out.println("Masukkan jumlah uang yang dibayar : ");
-        uangBayar = input.nextInt();
-        
-    }
-    
+       
+    }   
 }
